@@ -1,0 +1,9 @@
+D:\PROGRAMMING\BTEAManual\BTEAManual\bin\Debug\BTEAManual.exe
+D:\PROGRAMMING\BTEAManual\BTEAManual\bin\Debug\BTEAManual.pdb
+D:\PROGRAMMING\BTEAManual\BTEAManual\obj\Debug\BTEAManual.Main.resources
+D:\PROGRAMMING\BTEAManual\BTEAManual\obj\Debug\BTEAManual.Properties.Resources.resources
+D:\PROGRAMMING\BTEAManual\BTEAManual\obj\Debug\BTEAManual.csproj.GenerateResource.cache
+D:\PROGRAMMING\BTEAManual\BTEAManual\obj\Debug\BTEAManual.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\BTEAManual\BTEAManual\obj\Debug\BTEAManual.exe
+D:\PROGRAMMING\BTEAManual\BTEAManual\obj\Debug\BTEAManual.pdb
+D:\PROGRAMMING\BTEAManual\BTEAManual\obj\Debug\BTEAManual.csprojAssemblyReference.cache
