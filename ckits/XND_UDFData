@@ -353,7 +353,7 @@
 						set ansi_warnings on;
         end
       else
-        select -1 as ResNo;
+        select 1 as ResNo;
       
     </Query>
     <OnExit>
@@ -367,7 +367,7 @@
     <Hook>HOOK_NONE</Hook>
     <Expression>{XND_UDF_Data_Init_Query.ResNo.1}</Expression>
     <Case>
-      <When>-1</When>
+      <When>1</When>
       <Then>
         <Execute>XND_UDF_Data_InitDataExist</Execute>
       </Then>
