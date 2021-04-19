@@ -22,4 +22,4 @@ protel CKit provides a choice of functions rather than being a detailed programm
 - [x] **C++ DLLs** are usually used for tasks, which affect the system performance. As they can establish their own connection to the SQL server, they can be used e. g. to efficiently import data.
 
 ## Active Desktop built using CKit
-![alt text](https://raw.githubusercontent.com/mikrotikamalatu/protel/master/ckits/images/ActiveDesktop.png)
+![alt text](https://github.com/mikrotikamalatu/protel/blob/master/ckits/images/AD_Dashboard.png)
