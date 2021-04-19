@@ -1,8 +1,0 @@
-D:\PROGRAMMING\BTEAManual\BTEAManual\bin\Release\BTEAManual.exe
-D:\PROGRAMMING\BTEAManual\BTEAManual\bin\Release\BTEAManual.pdb
-D:\PROGRAMMING\BTEAManual\BTEAManual\obj\Release\BTEAManual.Main.resources
-D:\PROGRAMMING\BTEAManual\BTEAManual\obj\Release\BTEAManual.Properties.Resources.resources
-D:\PROGRAMMING\BTEAManual\BTEAManual\obj\Release\BTEAManual.csproj.GenerateResource.cache
-D:\PROGRAMMING\BTEAManual\BTEAManual\obj\Release\BTEAManual.csproj.CoreCompileInputs.cache
-D:\PROGRAMMING\BTEAManual\BTEAManual\obj\Release\BTEAManual.exe
-D:\PROGRAMMING\BTEAManual\BTEAManual\obj\Release\BTEAManual.pdb
